@@ -1,6 +1,7 @@
-## Hi there 👋
+![Fernanda Duran Banner]<img width="3780" height="1890" alt="Fernanda Duran" src="https://github.com/user-attachments/assets/e4f5c5b8-719c-4777-af86-314e9d76dba9" />
+()
 
-<!--
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 **ferduran23/ferduran23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
