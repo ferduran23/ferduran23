@@ -12,16 +12,13 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 
 #### Tools and Technical Skils: 
 
-| Area | Tools / Technologies |
-|------|----------------------|
-| Manual Testing | Google Sheets |
-| Test Automation | Selenium, Pytest, WebDriverWait |
-| API Testing | Postman, JSON |
-| Database | PostgreSQL |
-| Version Control | Git, GitHub |
-| Communication | Discord |
-| Documentation | Notion, Google Docs |
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 #### Contact Information
 - Email: phoebed298@gmail.com
