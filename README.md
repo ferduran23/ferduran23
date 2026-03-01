@@ -10,7 +10,7 @@ I have experience designing and executing test cases, performing software valida
 
 You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
 
-#### ⚙️Tools: 
+## ⚙️Tools: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -24,16 +24,16 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 
-#### 📧Contact Information
+## 📧Contact Information
 - Email: phoebed298@gmail.com
 - Phone: +57 3133377242
 - [Linkedin](https://www.linkedin.com/in/fernanda-dur%C3%A1n-415a8425b/).
 
-#### 📄Bootcamp QA Engineer Projects
+## 📄Bootcamp QA Engineer Projects
 - [Urban Grocers API](https://github.com/ferduran23/urban-grocers-backend-testing).
 - [Urban Routes Functional Testing](https://github.com/ferduran23/urban-routes-functional).
 
 
-### 📊My Stats
+## 📊My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferduran23&theme=apprentice)](https://git.io/streak-stats)
 
