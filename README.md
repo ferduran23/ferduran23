@@ -8,6 +8,8 @@ I am a junior QA engineer focused on software testing and quality assurance, wit
 
 I have experience designing and executing test cases, performing software validation, and managing bug reporting and tracking processes within agile development environments. My analytical and detail-oriented approach allows me to identify defects efficiently, explore edge cases, and help optimize development workflows to improve overall product quality.
 
+You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
+
 ## Tools and Technical Skils: 
 
 | Area | Tools / Technologies |
@@ -20,7 +22,6 @@ I have experience designing and executing test cases, performing software valida
 | Communication | Discord |
 | Documentation | Notion, Google Docs |
 
-You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
 
 ## Contact Information
 - Email: phoebed298@gmail.com
