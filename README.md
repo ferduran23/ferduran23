@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there, I'm Fernanda!</h2>
 
-#### About Me
+#### 🙆🏻‍♀️About Me
 
 I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I have foundational experience in test automation using Python, as well as working with databases and SQL for data validation and backend testing support. I am also experienced in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries. My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences. 
 
@@ -10,7 +10,7 @@ I have experience designing and executing test cases, performing software valida
 
 You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
 
-#### Tools and Technical Skils: 
+#### ⚙️Tools: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -22,12 +22,12 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-#### Contact Information
+#### 📧Contact Information
 - Email: phoebed298@gmail.com
 - Phone: +57 3133377242
 - [Linkedin](https://www.linkedin.com/in/fernanda-dur%C3%A1n-415a8425b/).
 
-#### Bootcamp QA Engineer Projects
+#### 📄Bootcamp QA Engineer Projects
 - [Urban Grocers API](https://github.com/ferduran23/urban-grocers-backend-testing).
 - [Urban Routes Functional Testing](https://github.com/ferduran23/urban-routes-functional).
 
