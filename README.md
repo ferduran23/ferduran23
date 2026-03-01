@@ -34,5 +34,6 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 - [Urban Routes Functional Testing](https://github.com/ferduran23/urban-routes-functional).
 
 
+### 📊My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferduran23&theme=apprentice)](https://git.io/streak-stats)
 
