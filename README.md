@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there, I'm Fernanda!</h2>
 
-#### 🙆🏻‍♀️About Me
+## 🙆🏻‍♀️About Me
 
 I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I have foundational experience in test automation using Python, as well as working with databases and SQL for data validation and backend testing support. I am also experienced in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries. My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences. 
 
