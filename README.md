@@ -30,9 +30,14 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 - [Linkedin](https://www.linkedin.com/in/fernanda-dur%C3%A1n-415a8425b/).
 
 ## 📄Bootcamp QA Engineer Projects
+### Manual Testing
 - [Urban Grocers API](https://github.com/ferduran23/urban-grocers-backend-testing).
-- [Urban Routes Functional Testing](https://github.com/ferduran23/urban-routes-functional).
+- [Urban Routes Functional Testing](https://github.com/ferduran23/urban-routes-functional)
 
+### 💻 Automated Testing
+
+- [Urban Grocers API Testing](https://github.com/ferduran23/api_stand_tests).
+- [Urban Routes Test Automation](https://github.com/ferduran23/qa-project-Urban-Routes-es).
 
 ## 📊My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferduran23&theme=apprentice)](https://git.io/streak-stats)
